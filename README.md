@@ -4,10 +4,7 @@
 [![知乎](https://img.shields.io/badge/知乎-于喝水-red "知乎")](https://www.zhihu.com/people/foryouos)
 
 Hello My name is Yu,a optimistic boy,love the programming.
-
 <img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" align="right" >
-
-
 such as: 
 * C++
 * C
@@ -19,8 +16,7 @@ Feel free to reach out with any question.
 my study notebook is in the Wexin official Accounts Platform.
 
 welcome to my Github.
-
-Email : foryouos@qq.com
+         Email : `foryouos@qq.com`
 ****
 [![新工官网](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)](https://github.com/foryouos/xingong)
 [![新工课程表小程序](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_courses)](https://github.com/foryouos/xingong_courses)
