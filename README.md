@@ -1,6 +1,6 @@
 #### 个人主页:foryouos
 
-
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=foryouos)](https://github.com/mango-lzp/github-readme-stats)
 
 
 #### 笔记公众号
