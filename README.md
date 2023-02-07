@@ -39,7 +39,7 @@ Email : foryouos@qq.com
 * CSDN: [于喝水](https://blog.csdn.net/weixin_45925755)
 * 知乎：[于喝水](https://www.zhihu.com/people/foryouos)
 ![](https://stats.justsong.cn/api/csdn?id=weixin_45925755&theme=flag-india)
-<!--![](https://stats.justsong.cn/api/zhihu/?id=foryouos&theme=flag-india)-->
+![](https://stats.justsong.cn/api/zhihu/?id=foryouos&theme=flag-india)
 
 * 微信公众号: [瓶子的跋涉](https://github.com/foryouos/foryouos/blob/main/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png) \(Extraordinary-Bottle
 )
