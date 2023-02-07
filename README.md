@@ -41,6 +41,6 @@ welcome to my Github.
 ![](https://stats.justsong.cn/api/csdn?id=weixin_45925755&theme=flag-india)
 <!--![](https://stats.justsong.cn/api/zhihu/?id=foryouos&theme=flag-india)-->
 
-* [微信公众号](https://raw.githubusercontent.com/foryouos/foryouos/main/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png):
+* [微信公众号](https://github.com/foryouos/foryouos/blob/main/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png):
 
-  ![微信公众号](https://raw.githubusercontent.com/foryouos/foryouos/main/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png )
+  ![微信公众号](https://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtmW9TwBH0bgNxmPicjO6ibWNnj9carxX9Gay70evCfZfcyD4f6mrmkK0BloApVsaibZMQp2krxjGY1Q/0?wx_fmt=png "wechat-id:Extraordinary-Bottle")
