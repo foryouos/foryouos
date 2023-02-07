@@ -5,6 +5,8 @@
 
 Hello My name is Yu,a optimistic boy,love the programming.
 
+<img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" class="alignright ">
+
 such as: 
 * C++
 * C
