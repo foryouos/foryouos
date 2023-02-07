@@ -5,9 +5,9 @@ Hello My name is Yu.
 welcome to my Github.
 
 ****
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_course)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=C_shujujiegou)](https://github.com/anuraghazra/github-readme-stats)
+[![新工官网](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)]([新工官网](https://github.com/foryouos/xingong))
+[![新工课程表小程序](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_course)]([新工课程表](https://github.com/foryouos/xingong_course))
+[![数据结构](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=C_shujujiegou)](https://github.com/foryouos/C_shujujiegou)
 
 
 ### Github'message:
