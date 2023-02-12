@@ -2,6 +2,7 @@
 [![CSDN](https://img.shields.io/badge/CSDN-%E4%BA%8E%E5%96%9D%E6%B0%B4-green "csdn")](https://blog.csdn.net/weixin_45925755)
 [![微信公众平台](https://img.shields.io/badge/微信公众号-瓶子的跋涉-yellow "微信公众号")](https://raw.githubusercontent.com/foryouos/foryouos/main/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 [![知乎](https://img.shields.io/badge/知乎-于喝水-red "知乎")](https://www.zhihu.com/people/foryouos)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=foryouos&left_color=blue&right_color=yellow)
 
 Hello My name is Yu,a optimistic boy,love the programming.
 <img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" align="right" >
