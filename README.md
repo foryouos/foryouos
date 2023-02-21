@@ -22,7 +22,7 @@ welcome to my Github.
 [![新工官网](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)](https://github.com/foryouos/xingong)
 [![新工课程表小程序](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_courses)](https://github.com/foryouos/xingong_courses)
 [![数据结构](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=C_shujujiegou)](https://github.com/foryouos/C_shujujiegou)
-
+[![C++学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=C-notebook)](https://github.com/foryouos/C-notebook)
 
 ### Github'message:
 <p dir="auto">
