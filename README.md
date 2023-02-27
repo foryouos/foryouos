@@ -9,6 +9,7 @@ Hello My name is Yu,a optimistic boy,love the programming.
 such as: 
 * C++
 * C
+* Python 爬虫+Django
 * assemble
 * decompiliation
 
