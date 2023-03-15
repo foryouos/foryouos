@@ -28,7 +28,7 @@ welcome to my Github.
 ### Github'message:
 <p dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=foryouos&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foryouos&layout=compact&hide=html" style="max-width: 100%; height:195px; width: 450px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foryouos&layout=compact&hide=html" style="max-width: 100%; height:195px; ">
 </p>
 
 ****
