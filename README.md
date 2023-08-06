@@ -34,7 +34,7 @@ welcome to my Github.
 
 ****
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=foryouos&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foryouos&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 笔记
