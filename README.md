@@ -20,10 +20,10 @@ my study notebook is in the Wexin official Accounts Platform.
 welcome to my Github.
          Email : `foryouos@qq.com`
 ****
+[![ForyouTool](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=ForyouTools)](https://github.com/foryouos/ForyouTools)
 [![新工官网](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)](https://github.com/foryouos/xingong)
 [![新工课程表小程序](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_courses)](https://github.com/foryouos/xingong_courses)
-[![数据结构](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=Parking_System)](https://github.com/foryouos/Parking_System)
-[![C++学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=C-notebook)](https://github.com/foryouos/C-notebook)
+
 
 ### Github'message:
 <p dir="auto">
