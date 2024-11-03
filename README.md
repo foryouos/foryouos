@@ -21,6 +21,7 @@ welcome to my Github.
          Email : `foryouos@qq.com`
 ****
 [![ForyouTool](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=ForyouTools)](https://github.com/foryouos/ForyouTools)
+[![QtWinTaskScheduler](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=QtWinTaskScheduler)](https://github.com/foryouos/QtWinTaskScheduler)
 [![新工官网](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong)](https://github.com/foryouos/xingong)
 [![新工课程表小程序](https://github-readme-stats.vercel.app/api/pin/?username=foryouos&repo=xingong_courses)](https://github.com/foryouos/xingong_courses)
 
